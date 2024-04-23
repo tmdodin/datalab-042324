@@ -1,3 +1,5 @@
+# In order to use the content of this repo:
+
 1. Install R and RStudio via https://posit.co/download/rstudio-desktop/
 
 2. Execute install_pkgs.R
