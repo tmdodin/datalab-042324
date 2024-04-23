@@ -1,6 +1,5 @@
 library(shiny)
 library(ggplot2)
-library(mathjaxr) # for rendering Latex expressions in Shiny
 
 # Define UI
 ui <- fluidPage(
