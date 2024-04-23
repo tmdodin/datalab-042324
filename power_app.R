@@ -94,6 +94,7 @@ plot_two_normals <- function(mean1, mean2, sd1, sd2, alpha,n) {
   return(p)
 }
 
+
 # Example:
 plot_two_normals(input$mean1, input$mean2, input$sd1/sqrt(input$n), input$sd1/sqrt(input$n), input$alpha,input$n)
 
